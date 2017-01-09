@@ -1,3 +1,20 @@
 Git is a version control tool
 Git is free for everyone
 Git is creat by Linus
+
+I am test git reset
+
+I am testing git commit oders
+# git commit -s 
+# git commit -m 
+
+I am learn git diff order
+# git diff readme 
+
+I am learn git log orders
+# git log 
+# git log --prett=oneline 
+
+
+git reset HEAD order
+git checkout --filename order
