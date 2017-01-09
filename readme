@@ -22,3 +22,5 @@ git checkout --filename order
 git rm [filename] order
 
 modify on branch dev
+
+merge banch with --no-ff parameter
