@@ -20,3 +20,5 @@ git reset HEAD order
 git checkout --filename order
 
 git rm [filename] order
+
+modify on branch dev
