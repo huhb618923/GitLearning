@@ -18,3 +18,5 @@ I am learn git log orders
 
 git reset HEAD order
 git checkout --filename order
+
+git rm [filename] order
