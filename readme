@@ -27,3 +27,4 @@ merge banch with --no-ff parameter
 
 git diff & git format-patch
 
+git format-patch test
