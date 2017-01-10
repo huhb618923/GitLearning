@@ -24,3 +24,6 @@ git rm [filename] order
 modify on branch dev
 
 merge banch with --no-ff parameter
+
+git diff & git format-patch
+
