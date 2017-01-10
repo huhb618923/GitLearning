@@ -28,3 +28,5 @@ merge banch with --no-ff parameter
 git diff & git format-patch
 
 git format-patch test
+
+test conflict for apply patch.
